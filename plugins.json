@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "iconUrl": "https://api.sansekai.my.id/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sudikama/antinrml",
+        "fileSize": 92787,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Dracin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DracinProvider",
+        "description": "Multi-source drama & movie streaming provider (DramaBox, ReelShort, NetShort, Melolo, FlickReels, FreeReels, MovieBox)",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml/builds/DracinProvider.cs3",
+        "name": "DracinProvider"
+    }
+]
