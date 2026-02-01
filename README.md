@@ -8,7 +8,7 @@ CloudStream extension repository by sudikama.
 2. Go to **Settings** → **Extensions** → **Add repository**
 3. Enter this URL:
    ```
-   https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/plugins.json
+   https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/repo.json
    ```
 
 ## Available Extensions
