@@ -17,7 +17,7 @@
         "version": 1,
         "internalName": "DracinProvider",
         "description": "Multi-source drama & movie streaming provider (DramaBox, ReelShort, NetShort, Melolo, FlickReels, FreeReels, MovieBox)",
-        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DracinProvider.cs3",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml/builds/DracinProvider.cs3",
         "name": "DracinProvider"
     }
 ]
