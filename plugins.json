@@ -19,5 +19,26 @@
         "description": "Multi-source drama & movie streaming provider (DramaBox, ReelShort, NetShort, Melolo, FlickReels, FreeReels, MovieBox)",
         "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DracinProvider.cs3",
         "name": "DracinProvider"
+    },
+    {
+        "iconUrl": "https://rishort.com/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sudikama/antinrml",
+        "fileSize": 43293,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Dracin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "RishortProvider",
+        "description": "Rishort - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/RishortProvider.cs3",
+        "name": "RishortProvider"
     }
 ]
