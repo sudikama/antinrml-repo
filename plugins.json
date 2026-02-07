@@ -21,10 +21,10 @@
         "name": "DracinProvider"
     },
     {
-        "iconUrl": "https://rishort.com/favicon.png",
+        "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sudikama/antinrml",
-        "fileSize": 50376,
+        "fileSize": 50340,
         "status": 1,
         "language": "id",
         "authors": [
@@ -36,9 +36,9 @@
             "AsianDrama"
         ],
         "version": 1,
-        "internalName": "RishortProvider",
-        "description": "Rishort - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
-        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/RishortProvider.cs3",
-        "name": "RishortProvider"
+        "internalName": "DramaDarmoProvider",
+        "description": "DramaDarmo - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DramaDarmoProvider.cs3",
+        "name": "DramaDarmoProvider"
     }
 ]
