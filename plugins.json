@@ -24,6 +24,27 @@
         "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sudikama/antinrml",
+        "fileSize": 66609,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Dracin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DracinV2Provider",
+        "description": "Dracin V2 - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DracinV2Provider.cs3",
+        "name": "DracinV2Provider"
+    },
+    {
+        "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sudikama/antinrml",
         "fileSize": 29415,
         "status": 1,
         "language": "id",
