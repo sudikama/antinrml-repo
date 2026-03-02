@@ -1,65 +1,21 @@
 [
     {
-        "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tukucoin.my.id&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sudikama/antinrml",
-        "fileSize": 94568,
+        "fileSize": 36089,
         "status": 1,
         "language": "id",
         "authors": [
-            "Dracin"
+            "sudikama"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "DracinProvider",
-        "description": "Multi-source drama & movie streaming provider (DramaBox, ReelShort, NetShort, Melolo, FlickReels, FreeReels, MovieBox)",
-        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DracinProvider.cs3",
-        "name": "DracinProvider"
-    },
-    {
-        "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/sudikama/antinrml",
-        "fileSize": 86877,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Dracin"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
             "AsianDrama"
         ],
         "version": 1,
-        "internalName": "DracinV2Provider",
-        "description": "Dracin V2 - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
-        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DracinV2Provider.cs3",
-        "name": "DracinV2Provider"
-    },
-    {
-        "iconUrl": "https://cdn.tukucoin.my.id/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/sudikama/antinrml",
-        "fileSize": 29415,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Dracin"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "DramaDarmoProvider",
-        "description": "DramaDarmo - 17 platform drama aggregator (DramaBox, Shortmax, NetShort, ReelShort, and more)",
-        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/DramaDarmoProvider.cs3",
-        "name": "DramaDarmoProvider"
+        "internalName": "TukustreamProvider",
+        "description": "Tukustream - Multi-source drama aggregator with JWT authentication",
+        "url": "https://raw.githubusercontent.com/sudikama/antinrml-repo/builds/TukustreamProvider.cs3",
+        "name": "TukustreamProvider"
     }
 ]
